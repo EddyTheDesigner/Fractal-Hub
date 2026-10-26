@@ -1,0 +1,9 @@
+* text=auto
+*.js text eol=lf
+*.mjs text eol=lf
+*.jsx text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.attribution text eol=lf
+*.png binary
+*.jpg binary
